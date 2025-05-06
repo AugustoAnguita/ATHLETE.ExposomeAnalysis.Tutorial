@@ -1,8 +1,7 @@
 # **Exposome research analytics: An Hands-on Data Analysis Tutorial."**  
 
-<img src=‘figures/2_ATHLETE_logo_subtitle_color.png’ alt=‘ATHLETE logo’ width=‘350’/>  
-<img src=‘figures/exposoma.png’ alt=‘ISGlobal logo’ width=‘500’/>
-
+<img src="figures/2_ATHLETE_logo_subtitle_color.png" alt="ISGlobal logo" width="350"/>  
+<img src="figures/exposoma.png" alt="ISGlobal 
 
 **Alan Domínguez**, Predoctoral Researcher at the Barcelona Institute for Global Health (ISGlobal).  
 
