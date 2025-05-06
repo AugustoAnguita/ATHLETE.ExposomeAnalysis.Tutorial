@@ -59,7 +59,15 @@ The repository contains the following documents:
  
 # **Reminder: Introduction to NoteBook**
 
-This tutorial (exposome_tutorial.ipynb) is a NoteBook object. The Within this notebook (*NoteBook*), you will be guided step by step from loading a dataset to performing analysis of its content.
+This tutorial (**[exposome_tutorial.ipynb](https://github.com/AugustoAnguita/ATHLETE.ExposomeAnalysis.Tutorial_draft/blob/main/exposome_tutorial.ipynb)** file) is a NoteBook object. Within this notebook (*NoteBook*), you will be guided step by step from loading a dataset to performing analysis of its content. 
+
+**To access the tutorial:**
+
+- **Open** the exposome_tutorial.ipynb file.
+
+- **Click** the “Open in Colab” button at the top of the notebook.
+
+**You’ll need to sign in with a Google account to run the Colab tutorial.**
 
 The *Jupyter* (Python) notebook is an approach that combines text blocks (like this one) together with code blocks or cells. The great advantage of this type of cell is its interactivity, as they can be executed to check the results directly within them. *Very important:* **the order of instructions is fundamental**, so each cell in this notebook must be executed sequentially. If any are omitted, the program may throw an error, so you should start from the beginning if in doubt.
 
