@@ -21,9 +21,9 @@ In the first part of the session, the concept of descriptive analysis in exposom
 
 Some of the contents we will review in this section:  
 
-* **Visualization of the distribution and concentration of exposome variables.**  
-* **Correlation between exposures.**  
-* **Principal Component Analysis (PCA) applied to exposome variables.**
+* **Visualization of the distribution and concentration of exposome variables**  
+* **Correlation between exposures**  
+* **Principal Component Analysis (PCA) applied to exposome variables**
 
 **2. Association Analysis:**  
 
