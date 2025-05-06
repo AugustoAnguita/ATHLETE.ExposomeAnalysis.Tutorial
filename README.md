@@ -73,7 +73,7 @@ The *Jupyter* (Python) notebook is an approach that combines text blocks (like t
 
 First of all:
 
-It is **very very important** that at the start you select **"*Open in draft mode*" (draft mode)**, at the top left. Otherwise, it will not allow you to execute any code block, for security reasons. When the first of the blocks is executed, the following message will appear: "*Warning: This notebook was not created by Google.*". Do not worry, you should trust the content of the notebook (*NoteBook*) and click "Run anyway".
+Once inside google colab, it is **very very important** that at the start you select **"*Open in draft mode*" (draft mode)**, at the top left. Otherwise, it will not allow you to execute any code block, for security reasons. When the first of the blocks is executed, the following message will appear: "*Warning: This notebook was not created by Google.*". Do not worry, you should trust the content of the notebook (*NoteBook*) and click "Run anyway".
 
 Let’s go!
 
