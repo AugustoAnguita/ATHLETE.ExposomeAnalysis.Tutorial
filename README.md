@@ -1,4 +1,4 @@
-# **Exposome research analytics: An Hands-on Data Analysis Tutorial."**  
+# **Exposome research analytics: An Hands-on Data Analysis Tutorial**  
 
 <img src="figures/2_ATHLETE_logo_subtitle_color.png" alt="ISGlobal logo" width="350"/>  
 <img src="figures/exposoma.png" alt="exposome" width="300"/>
