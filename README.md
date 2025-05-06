@@ -1,7 +1,7 @@
 # **Exposome research analytics: An Hands-on Data Analysis Tutorial."**  
 
 <img src="figures/2_ATHLETE_logo_subtitle_color.png" alt="ISGlobal logo" width="350"/>  
-<img src="figures/exposoma.png" alt="ISGlobal 
+<img src="figures/exposoma.png" alt="exposome" width="250"/>
 
 **Alan Domínguez**, Predoctoral Researcher at the Barcelona Institute for Global Health (ISGlobal).  
 
@@ -53,3 +53,22 @@ The repository contains the following documents:
   2. `exposome` (exposome).
   3. `covariates` (covariates).
   4. `codebook`.
+ 
+# **Reminder: Introduction to NoteBook**
+
+This tutorial (exposome_tutorial.ipynb) is a NoteBook object. The Within this notebook (*NoteBook*), you will be guided step by step from loading a dataset to performing analysis of its content.
+
+The *Jupyter* (Python) notebook is an approach that combines text blocks (like this one) together with code blocks or cells. The great advantage of this type of cell is its interactivity, as they can be executed to check the results directly within them. *Very important:* **the order of instructions is fundamental**, so each cell in this notebook must be executed sequentially. If any are omitted, the program may throw an error, so you should start from the beginning if in doubt.
+
+First of all:
+
+It is **very very important** that at the start you select **"*Open in draft mode*" (draft mode)**, at the top left. Otherwise, it will not allow you to execute any code block, for security reasons. When the first of the blocks is executed, the following message will appear: "*Warning: This notebook was not created by Google.*". Do not worry, you should trust the content of the notebook (*NoteBook*) and click "Run anyway".
+
+Let’s go!
+
+Click the "play" button on the left side of each code cell. Lines of code that begin with a hashtag (#) are comments and do not affect the execution of the program.
+
+You can also click on each cell and press "*ctrl+enter*" (*cmd+enter* on Mac).
+
+Each time you run a block, you will see the output just below it. The information is usually always related to the last instruction, along with all the `print()` commands in the code.
+
