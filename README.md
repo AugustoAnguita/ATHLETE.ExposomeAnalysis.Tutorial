@@ -41,9 +41,10 @@ For this practical tutorial, we will use data from the HELIX exposome study. The
 **Note:** The data provided in this introductory course were simulated from the HELIX sub-cohort data. Details of the HELIX project and the origin of the data collected can be found in the following publication: [BMJ Open - HELIX](https://bmjopen.bmj.com/content/8/9/e021311) and on the [project website](https://www.projecthelix.eu/es).
 
 # Repository Guide
+
 The repository contains the following documents:
 
-**1.- exposome_tutorial.ipynb:** It contains the notebook for the practical session with the code needed to perform the data analysis in exposoma projects.
+**1.- exposome_tutorial.ipynb:** It contains the notebook for the practical tutorial with the code needed to perform the data analysis in exposome projects.
 
 **data:** This folder contains the **codebook** and the **datasets** that will be used during the session.
 
